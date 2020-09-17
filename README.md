@@ -18,3 +18,4 @@ And here are the results using the same methodology on IPUMS Census extracts for
 
 Overall, it seems like the "fat tails" phenomenon documented by the original authors is a recent development, and really took shape over the course of the 1990s.
 A line I wrote on my local computer
+credential test
